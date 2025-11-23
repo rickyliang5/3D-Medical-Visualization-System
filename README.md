@@ -75,7 +75,7 @@ Colormaps are defined by 1-dimensional textures that are sampled at runtime by t
 ![GIF of DICOM-2D changing slice and window/level](https://github.com/apd47/DICOM-GL/blob/master/Pages/volume_render.gif?raw=true)
 
 DICOM-3D is a volumetric DICOM renderer that runs from the command line or from a structured directory containing the target DICOM files. 
-
+.
 
 
 
