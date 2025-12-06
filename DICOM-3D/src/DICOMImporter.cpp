@@ -11,7 +11,7 @@ int DICOMImporter::width;
 int DICOMImporter::height;
 int DICOMImporter::numberOfTextures;
 int DICOMImporter::numberOfColormaps;
-
+//w
 std::vector <char*> DICOMImporter::textureBufferPointers;
 std::vector<std::string> DICOMImporter::dicomFiles;
 std::vector<std::string> DICOMImporter::colormapFiles;
