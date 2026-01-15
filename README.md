@@ -34,7 +34,7 @@ DICOM-2D uses GLSL shaders to perform all transformations, colormapping, and win
 
 ### Quick Start
 To get started quickly, download a prebuilt .zip file that includes sample colormaps and a sample DICOM dataset at:https://github.com/apd47/DICOM-GL/raw/master/Builds/DICOM-2D.zip
-
+.
 ### Building from Source
 In order to build DICOM-2D, you'll need to ensure you have all of the dependencies installed in accessible locations for Visual Studio. I recommend using vcpkg, Microsoft's dependency-management tool, to automatically install the above dependencies. 
 
